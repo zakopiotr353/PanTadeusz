@@ -23,6 +23,7 @@ img {
 
 .list-group-item:hover {
     background-color: aqua;
+    border: none;
 }
 
 
